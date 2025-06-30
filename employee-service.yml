@@ -15,7 +15,6 @@ management:
       exposure:
         include: "*"
 #department-service-host-url: ${DEPARTMENT_SERVICE_HOST_URL:http://DEPARTMENT-SERVICE}
-department-service-host-url: http://DEPARTMENT-SERVICE
 eureka:
   instance:
     prefer-ip-address: true
